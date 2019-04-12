@@ -1,0 +1,13 @@
+com\Webapplication\service\SerInt.class
+com\javaWebApplication\bean\User.class
+com\javaWebapplicationController\PopupServlet.class
+com\javaWebapplicationController\Signin.class
+com\javaWebApplication\Model\MyDb.class
+com\javaWebapplicationController\ForgotPassword.class
+com\javaWebapplicationController\FilterForRegistration.class
+com\javaWebapplicationController\RegisterServlet.class
+com\Webapplication\service\ServiceMain.class
+com\javaWebApplication\Model\MyDbInterface.class
+com\javaWebapplicationController\DeleteServlet.class
+com\javaWebapplicationController\UpdateServlet.class
+com\javaWebApplication\bean\Address.class
